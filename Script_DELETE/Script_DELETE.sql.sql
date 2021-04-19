@@ -1,0 +1,3 @@
+DELETE  
+FROM CADASTRO_PRODUTO
+WHERE id_funcionario = 5;
