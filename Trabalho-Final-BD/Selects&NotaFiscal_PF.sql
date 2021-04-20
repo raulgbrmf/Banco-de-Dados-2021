@@ -22,7 +22,7 @@ Produto.ID_usuario = Usuario.ID_usuario AND
 Usuario.ID_cadastro = Cadastro.ID_cadastro AND
 Cadastro.ID_cadastro = 4
 
-SELECT COUNT(PedidoItem.ID_pedido) Num_Pedido, Cadastro.nome Nome_Comprador, Produto.nome NomeProd
+SELECT COUNT(PedidoItem.ID_pedido) Num_Pedido, Cadastro.nome Nome_Comprador, Produto.nome NomeProd,
 (SELECT SUM(PedidoItem.quantidade) 
 	FROM PedidoItem
 	WHERE PedidoItem.ID_produto = Produto.ID_produto AND 
