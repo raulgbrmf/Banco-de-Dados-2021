@@ -30,7 +30,7 @@ Clone o repositório e abra pelo DBeaver ou outro SGBD de sua preferência compa
   - Repositório: [GitHub](https://github.com/T2-Inc/residencia-bd)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T2-Inc/logo/main/T2%20Inc%20Logo.svg?token=AK25YN23RY56PO7WMOLJAFLAXGT6A"
+  <img src="https://raw.githubusercontent.com/T2-Inc/logo/main/T2%20Inc%20Logo.svg?token=AK25YNYQSL5OKDW4WTSWITDAXGV72"
        alt="Tudo 2 inc."
        height="75"
        width="75"
