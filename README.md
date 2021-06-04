@@ -1,10 +1,10 @@
-# Trabalho final de Banco de Dados | Residência de Software Serratec
+# Projeto Final de Banco de Dados | Residência de Software Serratec
 
+## e-Commerce
 
-## Banco de Dados e-Commerce
- 
-Trabalho final de Banco de Dados na Residência de Software - Serratec, onde os alunos desenvolveram um banco de dados para controle de um e-commerce.
- 
+Projeto Final para a disciplina de Banco de Dados, ministrada pelo Prof. [Raul Gabrich](https://github.com/raulgbrmf) durante a Residência de Software organizada pelo SERRATEC.
+
+A proposta do projeto é atender uma rede varejista para a criação do seu e-commerce, onde deve ser capaz de controlar e organizar seu estoque, como também o cadastro de clientes.
  
 ## Tecnologias 
 
@@ -14,7 +14,6 @@ Aqui estão as tecnologias usadas neste projeto
 * Modelo Entidade-Relacionamento
 * SQL
  
- 
 ## Serviços Utilizados
  
 * DBeaver
@@ -22,22 +21,18 @@ Aqui estão as tecnologias usadas neste projeto
 * Lucid App 
 * SQLite
  
- 
 ## Como Usar
  
 Clone o repositório e abra pelo DBeaver ou outro SGBD de sua preferência compativel com o SQLite
  
- 
 ## Links
  
-  - Repositório: https://github.com/jgreis/trab-final-bd-resid
- 
- 
-## Autores
+  - Repositório: [GitHub](https://github.com/T2-Inc/residencia-bd)
 
-* **Arthur Ferreira**: @Arthurfdo (https://github.com/Arthurfdo)
-* **Carlos Hammes**: @CaduHammes (https://github.com/CaduHammes)
-* **Jônatas G. Reis**: @jgreis (https://github.com/jgreis)
-* **Thalita Ribeiro**: @thalitarib (https://github.com/thalitarib)
-* **Wellita Klein**: @wellitamk (https://github.com/wellitamk)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T2-Inc/logo/main/T2%20Inc%20Logo.svg?token=AK25YN23RY56PO7WMOLJAFLAXGT6A"
+       alt="Tudo 2 inc."
+       height="75"
+       width="75"
+  />
+</p>
